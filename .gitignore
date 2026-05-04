@@ -1,15 +1,1 @@
-# Byte-compiled / optimized / DLL files
-# Python
 __pycache__/
-*.pyc
-db.sqlite3
-
-# Node
-node_modules/
-build/
-
-# Environment
-.env
-
-# VS Code
-.vscode/
